@@ -20,13 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1278d6f7-2a51-4269-a513-86986a02a153" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Gender-and-Age-Detection-master.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Gender-and-Age-Detection-master.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/core/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/core/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/js/1.js" beforeDir="false" afterPath="$PROJECT_DIR$/static/assets/js/1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/Gout.png" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/Gout.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/images/file.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/static/images/file.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/surndx16/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/surndx16/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +34,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/alwin1199/AI-Literacy-Tool-2020-" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1bkbqmayrIdyObHWxQegraczUON" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -43,16 +48,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Alalw\Documents\S2\SIT764\Surroundq\16-05\SURROUND\surndx16\static\images" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -71,17 +79,32 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/surround_16_05" />
+    </ignored-roots>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1589180080807">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="385" y="210" key="#Notifications" timestamp="1598518468350">
+      <screen x="0" y="23" width="1280" height="732" />
     </state>
-    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1589180080807" />
+    <state x="385" y="210" key="#Notifications/0.23.1280.732@0.23.1280.732" timestamp="1598518468350" />
+    <state x="144" y="23" key="SettingsEditor" timestamp="1598521222212">
+      <screen x="0" y="23" width="1280" height="732" />
+    </state>
+    <state x="144" y="23" key="SettingsEditor/0.23.1280.732@0.23.1280.732" timestamp="1598521222212" />
   </component>
 </project>
